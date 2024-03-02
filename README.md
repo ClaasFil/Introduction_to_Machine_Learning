@@ -1,6 +1,6 @@
 Introduction to Machine Learning - Class Assignments
 
-This repository contains my coursework and projects from the Introduction to Machine Learning class I took at the University of Vienna. The coursework involved a series of programming assignments that helped me develop practical skills in machine learning.
+This repository contains my coursework and projects from the Introduction to Machine Learning class I took as a pat of the Data Science Master at the University of Vienna. The coursework involved a series of programming assignments that helped me develop practical skills in machine learning.
 
     Data Preprocessing: Prepare data for machine learning models, including normalization, splitting into training and test sets, and handling of missing values.
 
